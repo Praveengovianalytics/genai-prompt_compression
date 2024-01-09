@@ -1,2 +1,2 @@
-# genai-prompt_compression
+# Gen AI Prompt Compression
 Prompt compression workbooks
